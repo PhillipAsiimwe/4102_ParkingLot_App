@@ -1,0 +1,20 @@
+Computer Visions 4102 Final Project 
+Parking lot application by Phillip AMANYA (101030494) Klaus CUMANI (101032429) Mohamed CAMARA (101028735) and Devin JN  PIERRE (100869993)
+Program functionality: 
+  Given a video of format .mp4 or .avi this application will then be able to track moving cars (Red rectangles), visualize vacant and non 
+  vacant parking lots (Blue and White rectangles respectively). The Program needs a list of parking lots dependent on the video it is reading 
+  if there exists a parking lot database the program will load it in other wise it will create a window where the user can map out all the 
+  parking spaces that will be used. Press key 'q' when finished mapping out parking spots. 
+  
+It is a proof of concept for a more refined live parking lot monitor, which takes live video and outputs all the moving cars, where they have
+parked and can locate free parking spots for a user to be assisted when parking. 
+
+List of dependencies: (all these modules must be installed on python for the program to function)
+  Detecto 
+  TourchVision
+  Numpy
+  Opencv
+  **Program file, Map_out_lot.py must be in the same directory
+  **any saved numpy array files must be in the same directory 
+  
+To run the program open command prompt and type "python Parking_App.py -v 'videos name plus extension' " ie Python Parking_App.py -v vid3.mp4 
