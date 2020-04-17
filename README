@@ -18,3 +18,5 @@ List of dependencies: (all these modules must be installed on python for the pro
   **any saved numpy array files must be in the same directory 
   
 To run the program open command prompt and type "python Parking_App.py -v 'videos name plus extension' " ie Python Parking_App.py -v vid3.mp4 
+*** IMPORTANT*** For the Detecto model to work please take the carmodel.pth file from cu learn and put it in the file directory, it was too
+big to upload to Github, it is in the folder called required.
