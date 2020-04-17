@@ -1,5 +1,11 @@
 Computer Visions 4102 Final Project 
-Parking lot application by Phillip AMANYA (101030494) Klaus CUMANI (101032429) Mohamed CAMARA (101028735) and Devin JN  PIERRE (100869993)
+
+Parking lot application by: 
+Phillip AMANYA (101030494) 
+Klaus CUMANI (101032429) 
+Mohamed CAMARA (101028735)
+Devin JN  PIERRE (100869993)
+
 Program functionality: 
   Given a video of format .mp4 or .avi this application will then be able to track moving cars (Red rectangles), visualize vacant and non 
   vacant parking lots (Blue and White rectangles respectively). The Program needs a list of parking lots dependent on the video it is reading 
