@@ -4,7 +4,7 @@ import numpy as np
 class Draw_ParkingSpaces:
     resetkey = ord('r') #press r to reset image if a mistake was made
     quitkey = ord('q') #press q to quit from mapping
-    red = (255,0,0)
+    red = (0,0,255)
     white = (255,255,255)
     
     def __init__(self,image,out,coords):
